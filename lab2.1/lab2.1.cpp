@@ -25,3 +25,4 @@ int main()
 	return 0;
 }
 //зміна 1
+//main change 1
