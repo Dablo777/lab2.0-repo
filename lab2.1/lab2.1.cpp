@@ -27,3 +27,4 @@ int main()
 //зміна 1
 //main change 1
 //зміна віддалений репозиторій
+//commit for task 4
