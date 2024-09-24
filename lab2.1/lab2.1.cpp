@@ -24,3 +24,4 @@ int main()
 	cin.get();
 	return 0;
 }
+//зміна 1
